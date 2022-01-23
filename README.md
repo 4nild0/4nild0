@@ -22,4 +22,4 @@
 
 ## :mailbox: Como me encontrar
 
-- :email: anildo.10@hotmail.com
+- :envelope: anildo.10@hotmail.com
