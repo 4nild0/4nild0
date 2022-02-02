@@ -18,7 +18,7 @@
 ## :computer: Eu estou colaborando com (...)
 
 - :newspaper: [Site para divulgação](https://github.com/DanteWest/juliana/)
-- :package: [MottonDev](https://github.co/4nild0/MottonDev)
+- :package: [MottonDev](https://github.com/4nild0/MottonDev)
 
 ## :mailbox: Como me encontrar
 
