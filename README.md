@@ -12,13 +12,17 @@
 
 ## :book: Estou estudando (...)
 
-- :blue_book: PHP & MySQL
+- :green_book: PHP
 - :closed_book: .NET
+- :blue_book: Flutter
 
 ## :computer: Eu estou colaborando com (...)
 
-- :newspaper: [Site para divulgação](https://github.com/DanteWest/juliana/)
+- :taxi: [Diario Motorista](https://github.com/4nild0/diario-motorista)
+- :eyeglasses: [WebScrapping Magazine Você](https://github.com/4nild0/magazinevoce-php)
+
 
 ## :mailbox: Como me encontrar
 
-- :envelope: anildo.10@hotmail.com
+- :envelope: [E-mail] anildo.10@hotmail.com
+- :phone: [WhatsApp] (https://api.whatsapp.com/send?phone=15988086930)
