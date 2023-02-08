@@ -24,5 +24,5 @@
 
 ## :mailbox: Como me encontrar
 
-- :envelope: [E-mail] anildo.10@hotmail.com
+- :envelope: anildo.10@hotmail.com
 - :phone: [WhatsApp](https://api.whatsapp.com/send?phone=15988086930)
