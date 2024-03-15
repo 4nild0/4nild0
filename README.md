@@ -13,7 +13,7 @@ Este repositório apresenta meu currículo como programador.
 ## Contato
 **E-mail:** anildo.10@hotmail.com
 
-**[WhatsApp](https://api.whatsapp.com/send?phone=15981512935)**
+**Whatsapp:** [Clique-me!](https://api.whatsapp.com/send?phone=15981512935)
 
 **Redes Sociais:** @4nild0
 
