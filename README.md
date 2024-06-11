@@ -11,7 +11,7 @@ Este repositório apresenta meu currículo como programador.
 
 **Profissão:** Desenvolvedor de Software
 ## Contato
-**E-mail:** [anildo.10@hotmail.com] (mailto:anildo.10@hotmail.com)
+**E-mail:** anildo.10@hotmail.com
 
 **Whatsapp:** [Clique-me!](https://api.whatsapp.com/send?phone=15981512935)
 
