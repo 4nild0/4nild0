@@ -11,7 +11,7 @@ Este repositório apresenta meu currículo como programador.
 
 **Profissão:** Desenvolvedor de Software
 ## Contato
-**E-mail:** anildo.10@hotmail.com
+**E-mail:** [anildo.10@hotmail.com] (mailto:anildo.10@hotmail.com)
 
 **Whatsapp:** [Clique-me!](https://api.whatsapp.com/send?phone=15981512935)
 
@@ -26,10 +26,6 @@ Este repositório apresenta meu currículo como programador.
 **Ensino Médio:** Completo
 
 **Ensino Superior:** Engenharia de Software (Cursando)
-
-## Medotoloogia Ágeis
-- Kanban
-- Scrum
 
 ## Ferramentas de Desenvolvimento
 
@@ -47,23 +43,12 @@ Este repositório apresenta meu currículo como programador.
 #### Frameworks e Bibliotecas
 - Back-End
   - PHPUnit/Pest
-  - Laravel
   - Symfony
-  - WordPress
-
-- Front-End (WEB)
-  - Jest
-  - Vue.JS
-    
-- Mobile
-  - Flutter
-- Desktop
-  - Catch2
-  - wxWidgets
 
 #### Linguagem de Serelização
 - JSON
 - XML
+- YAML
 
 ### Servidor Web
 - Apache
@@ -72,11 +57,6 @@ Este repositório apresenta meu currículo como programador.
 #### Relacional
 - SQLite
 - MySQL
-
-#### Não Relacional
-- FireBase
-- MongoDB
-- Redis
 
 ### Conteinerização e Virtualização
 - Docker
